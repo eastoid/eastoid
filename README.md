@@ -3,7 +3,10 @@
 🎯 Blazingly fast event streaming platform CSS Animations<br>
 ⚡ Using bleeding edge database system 'Microsoft Excel'
 </p>
-
+<hr>
+<p>Crazy quiz! Which option will you take?<br>
+1. Do Frontend development for 10 minutes<br>
+2. Stab yourself with a fork in the neck</p>
 
 <!--
 <h3 align="left">- Languages and Tools -</h3>
