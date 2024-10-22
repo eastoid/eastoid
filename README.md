@@ -6,7 +6,10 @@
 <hr>
 <p>Crazy quiz! Which option will you take?<br>
 1. Do Frontend development for 10 minutes<br>
-2. Stab yourself with a fork in the neck</p>
+2. Stab yourself in the neck with a fork<br>
+3. Witness IndexedDb syntax for up to 0.5 milliseconds</p>
+
+<!-- i will bombard the hq of web development  -->
 
 <!--
 <h3 align="left">- Languages and Tools -</h3>
